@@ -1,0 +1,899 @@
+INFO     Running translator.
+INFO     translator stdin: None
+INFO     translator time limit: None
+INFO     translator memory limit: None
+INFO     translator command line string: /opt/conda/bin/python /fast_downward/builds/release/bin/translate/translate.py HW1domain.pddl HW1problem.pddl --sas-file output.sas
+Parsing...
+Warning: Atom blocked(pt23pt2, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt2, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt2, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt2, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt2, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt2, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt2, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt2, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt2, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt2, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt2, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt2, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt2, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt2, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt2, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt2, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt2, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt2, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt2, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt2, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt2, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt2, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt2, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt2, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt2, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt2, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt2, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt2, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt2, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt2, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt2, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt2, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt2, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt2, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt2, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt2, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt2, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt2, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt2, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt2, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt2, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt2, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt2, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt2, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt2, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt2, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt2, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt2, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt2, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt2, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt2, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt2, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt2, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt2, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt2, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt2, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt2, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt2, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt2, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt2, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt2, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt2, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt2, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt2, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt2, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt2, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt2, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt2, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt2, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt2, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt2, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt2, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt2, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt2, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt2, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt2, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt2, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt2, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt2, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt2, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt2, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt2, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt2, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt2, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt2, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt2, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt2, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt2, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt2, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt2, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt2, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt2, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt2, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt2, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt2, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt2, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt2, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt2, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt2, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt2, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt2, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt2, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt2, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt2, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt2, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt2, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt2, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt2, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt2, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt2, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt2, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt2, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt2, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt2, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt2, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt2, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt2, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt2, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt2, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt2, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt2, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt2, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt2, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt2, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt2, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt2, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt2, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt2, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt2, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt2, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt2, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt2, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt2, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt2, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt2, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt2, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt2, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt2, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt2, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt2, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt2, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt2, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt2, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt2, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt2, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt4, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt4, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt4, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt4, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt4, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt4, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt4, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt4, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt4, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt4, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt4, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt4, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt4, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt4, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt4, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt4, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt4, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt4, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt4, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt4, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt4, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt4, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt4, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt4, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt4, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt4, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt4, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt4, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt4, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt3, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt3, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt3, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt3, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt3, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt3, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt3, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt3, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt3, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt3, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt3, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt3, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt3, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt3, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt3, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt3, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt3, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt3, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt3, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt3, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt3, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt3, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt3, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt3, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt3, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt3, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt3, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt3, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt3, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt3, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt3, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt3, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt3, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt3, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt3, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt3, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt3, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt3, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt3, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt3, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt3, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt3, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt3, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt3, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt3, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt3, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt3, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt3, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt3, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt3, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt3, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt3, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt3, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt3, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt3, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt3, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt3, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt3, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt3, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt3, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt3, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt3, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt3, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt3, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt3, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt3, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt3, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt3, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt3, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt3, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt3, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt3, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt3, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt3, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt3, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt3, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt3, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt3, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt3, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt3, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt3, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt3, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt3, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt3, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt3, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt3, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt3, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt5, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt5, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt5, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt5, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt5, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt5, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt5, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt5, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt5, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt5, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt5, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt5, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt5, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt5, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt5, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt5, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt5, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt5, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt5, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt5, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt5, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt5, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt5, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt5, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt5, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt5, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt5, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt5, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt5, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt5, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt5, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt5, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt5, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt5, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt5, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt5, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt5, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt5, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt5, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt5, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt5, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt5, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt5, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt5, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt5, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt5, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt5, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt5, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt5, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt5, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt5, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt5, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt5, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt5, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt5, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt5, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt5, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt5, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt6, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt6, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt6, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt6, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt6, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt6, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt6, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt6, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt6, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt6, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt6, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt6, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt6, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt6, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt6, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt6, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt6, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt6, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt6, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt6, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt6, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt6, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt6, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt6, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt6, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt6, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt6, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt6, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt6, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt3, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt3, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt3, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt3, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt3, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt3, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt3, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt3, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt3, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt3, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt3, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt3, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt3, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt3, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt3, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt3, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt3, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt3, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt3, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt3, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt3, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt3, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt3, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt3, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt3, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt3, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt3, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt3, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt3, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt3, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt3, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt3, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt3, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt3, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt3, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt3, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt3, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt3, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt3, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt3, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt3, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt3, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt3, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt3, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt3, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt3, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt3, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt3, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt3, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt3, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt3, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt3, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt3, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt3, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt3, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt3, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt3, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt3, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt3, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt3, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt3, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt3, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt3, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt3, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt3, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt3, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt3, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt3, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt3, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt3, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt3, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt3, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt3, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt3, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt3, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt3, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt3, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt3, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt3, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt3, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt3, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt3, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt3, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt3, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt3, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt3, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt3, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt3, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt3, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt3, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt3, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt3, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt3, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt3, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt3, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt3, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt3, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt3, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt3, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt3, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt3, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt3, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt3, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt3, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt3, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt3, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt3, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt3, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt3, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt3, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt3, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt3, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt3, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt3, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt3, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt3, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt3, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt3, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt3, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt3, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt3, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt3, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt3, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt3, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt3, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt3, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt3, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt3, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt3, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt3, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt3, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt3, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt3, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt3, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt3, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt3, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt3, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt3, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt3, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt3, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt3, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt3, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt3, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt3, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt3, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt1, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt1, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt1, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt1, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt1, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt1, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt1, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt1, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt1, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt1, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt1, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt1, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt1, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt1, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt1, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt1, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt1, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt1, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt1, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt1, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt1, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt1, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt1, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt1, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt1, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt1, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt1, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt1, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt1, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt2, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt2, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt2, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt2, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt2, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt2, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt2, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt2, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt2, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt2, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt2, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt2, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt2, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt2, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt2, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt2, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt2, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt2, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt2, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt2, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt2, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt2, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt2, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt2, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt2, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt2, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt2, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt2, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt2, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt2, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt2, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt2, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt2, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt2, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt2, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt2, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt2, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt2, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt2, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt2, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt2, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt2, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt2, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt2, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt2, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt2, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt2, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt2, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt2, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt2, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt2, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt2, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt2, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt2, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt2, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt2, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt2, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt2, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt2, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt2, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt2, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt2, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt2, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt2, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt2, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt2, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt2, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt2, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt2, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt2, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt2, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt2, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt2, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt2, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt2, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt2, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt2, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt2, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt2, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt2, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt2, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt2, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt2, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt2, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt2, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt2, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt2, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt2, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt2, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt2, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt2, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt2, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt2, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt5, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt5, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt5, t1) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt5, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt5, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt5, t2) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt5, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt5, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt5, t3) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt5, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt5, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt5, t4) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt5, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt5, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt5, t5) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt5, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt5, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt5, t6) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt5, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt5, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt5, t7) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt5, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt5, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt5, t8) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt5, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt5, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt5, t9) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt5, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt5, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt5, t10) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt5, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt5, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt5, t11) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt5, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt5, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt5, t12) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt5, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt5, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt5, t13) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt5, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt5, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt5, t14) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt5, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt6pt5, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt5, t15) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt5, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt2pt5, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt5, t16) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt5, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt28pt5, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt5, t17) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt5, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt24pt5, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt5, t18) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt5, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt20pt5, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt5, t19) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt5, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt16pt5, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt5, t20) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt5, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt12pt5, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt5, t21) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt5, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt8pt5, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt7pt5, t22) is specified twice in initial state specification
+Warning: Atom blocked(pt5pt5, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt4pt5, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt3pt5, t23) is specified twice in initial state specification
+Warning: Atom blocked(pt1pt5, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt0pt5, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt29pt5, t24) is specified twice in initial state specification
+Warning: Atom blocked(pt27pt5, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt26pt5, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt25pt5, t25) is specified twice in initial state specification
+Warning: Atom blocked(pt23pt5, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt22pt5, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt21pt5, t26) is specified twice in initial state specification
+Warning: Atom blocked(pt19pt5, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt18pt5, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt17pt5, t27) is specified twice in initial state specification
+Warning: Atom blocked(pt15pt5, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt14pt5, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt13pt5, t28) is specified twice in initial state specification
+Warning: Atom blocked(pt11pt5, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt10pt5, t29) is specified twice in initial state specification
+Warning: Atom blocked(pt9pt5, t29) is specified twice in initial state specification
+Parsing: [0.040s CPU, 0.066s wall-clock]
+Normalizing task... [0.000s CPU, 0.003s wall-clock]
+Instantiating...
+Generating Datalog program... [0.010s CPU, 0.013s wall-clock]
+Normalizing Datalog program...
+Normalizing Datalog program: [0.010s CPU, 0.008s wall-clock]
+Preparing model... [0.050s CPU, 0.054s wall-clock]
+Generated 107 rules.
+Computing model... [23.150s CPU, 23.214s wall-clock]
+1185859 relevant atoms
+68677 auxiliary atoms
+1254536 final queue length
+2423708 total queue pushes
+Completing instantiation... [54.610s CPU, 54.869s wall-clock]
+Instantiating: [78.430s CPU, 78.787s wall-clock]
+Computing fact groups...
+Finding invariants...
+4 initial candidates
+Finding invariants: [2.920s CPU, 2.937s wall-clock]
+Checking invariant weight... [0.000s CPU, 0.003s wall-clock]
+Instantiating groups... [0.000s CPU, 0.001s wall-clock]
+Collecting mutex groups... [0.000s CPU, 0.002s wall-clock]
+Choosing groups...
+6092 uncovered facts
+Choosing groups: [0.000s CPU, 0.004s wall-clock]
+Building translation key... [0.050s CPU, 0.042s wall-clock]
+Computing fact groups: [3.080s CPU, 3.106s wall-clock]
+Building STRIPS to SAS dictionary... [0.010s CPU, 0.010s wall-clock]
+Building dictionary for full mutex groups... [0.000s CPU, 0.009s wall-clock]
+Building mutex information...
+Building mutex information: [0.010s CPU, 0.012s wall-clock]
+Translating task...
+Processing axioms...
+Simplifying axioms... [0.000s CPU, 0.001s wall-clock]
+Processing axioms: [0.890s CPU, 0.896s wall-clock]
+Translating task: [40.870s CPU, 41.020s wall-clock]
+573722 effect conditions simplified
+0 implied preconditions added
+Detecting unreachable propositions...
+292288 operators removed
+11 axioms removed
+6208 propositions removed
+Detecting unreachable propositions: [14.600s CPU, 14.603s wall-clock]
+Reordering and filtering variables...
+2743 of 2988 variables necessary.
+0 of 0 mutex groups necessary.
+265617 of 284128 operators necessary.
+18 of 18 axiom rules necessary.
+Reordering and filtering variables: [3.130s CPU, 3.136s wall-clock]
+Translator variables: 2743
+Translator derived variables: 1
+Translator facts: 5486
+Translator goal facts: 1
+Translator mutex groups: 0
+Translator total mutex groups size: 0
+Translator operators: 265617
+Translator axioms: 18
+Translator task size: 902876
+Translator peak memory: 1593912 KB
+Writing output... [3.720s CPU, 7.083s wall-clock]
+Done! [144.930s CPU, 148.956s wall-clock]
+translate exit code: 0
+
+INFO     Running search (release).
+INFO     search stdin: output.sas
+INFO     search time limit: None
+INFO     search memory limit: None
+INFO     search command line string: /fast_downward/builds/release/bin/downward --search 'lazy_greedy([ff()], preferred=[ff()])' --internal-plan-file sas_plan < output.sas
+reading input... [t=0.00122802s]
+done reading input! [t=3.27148s]
+Simplifying 363493 unary operators... done! [255602 unary operators]
+time to simplify: 0.492624s
+Initializing additive heuristic...
+Initializing FF heuristic...
+Simplifying 363493 unary operators... done! [255602 unary operators]
+time to simplify: 0.37327s
+Initializing additive heuristic...
+Initializing FF heuristic...
+Building successor generator...done! [t=4.58129s]
+peak memory difference for successor generator creation: 0 KB
+time for successor generation creation: 0.189295s
+Variables: 2743
+FactPairs: 5486
+Bytes per state: 344
+Conducting lazy best first search, (real) bound = 2147483647
+New best heuristic value for ff: 1
+[g=0, 1 evaluated, 0 expanded, t=4.60798s, 144740 KB]
+Initial heuristic value for ff: 1
+Initial heuristic value for ff: 1
+Solution found!
+Actual search time: 0.0138636s [t=4.61924s]
+forward3 agent1 pt29pt6 pt28pt6 pt27pt6 pt0pt0 t0 t1 (1)
+Plan length: 1 step(s).
+Plan cost: 1
+Expanded 2 state(s).
+Reopened 0 state(s).
+Evaluated 3 state(s).
+Evaluations: 5
+Generated 301 state(s).
+Dead ends: 0 state(s).
+Number of registered states: 3
+Int hash set load factor: 3/4 = 0.75
+Int hash set resizes: 2
+Search time: 0.0146884s
+Total time: 4.6193s
+Solution found.
+Peak memory: 144740 KB
+Remove intermediate file output.sas
+search exit code: 0
+
